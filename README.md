@@ -3,7 +3,7 @@
 ## Introduction
 Technical documentation of the basic building blocks of the programming language Python.
 
-This project is part of freeCodeCamps Responsive Web Development certificate.
+This project is part of freeCodeCamps Responsive Web Design certificate.
 
 ## Project Requirements
 * There is a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
