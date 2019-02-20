@@ -5,6 +5,8 @@ Technical documentation of the basic building blocks of the programming language
 
 This project is part of freeCodeCamps Responsive Web Design certificate.
 
+***
+
 ## Project Requirements
 * There is a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
 * Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.
@@ -22,8 +24,12 @@ This project is part of freeCodeCamps Responsive Web Design certificate.
 * On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.
 * The Technical Documentation page should use at least one media query.
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_responsive_technical_documentation
+
+***
 
 ## Preview Images
 ### Main Screen:
